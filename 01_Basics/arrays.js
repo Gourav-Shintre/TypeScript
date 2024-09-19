@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var names = ['anna', 'laila'];
+// names.push("Dylan");
+console.log(names);
+var fruits = [];
+fruits.push('banana', 44);
+console.log(fruits);
+var person = [533, 55, 'sehbf', 87384];
+console.log(person);
